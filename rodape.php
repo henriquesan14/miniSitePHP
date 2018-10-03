@@ -1,45 +1,21 @@
-<!-- Footer -->
+<link rel="stylesheet" type="text/css" href="estilos/footer.css">
 <footer >
+  <div class="container">
+    <ul>
+      <li><a href="#"><i class="fas fa-map-marker-alt"></i><span>Centro Universitário de João Pessoa</span></a></li>
 
-    <!-- Footer Text -->
-    <div class="container-fluid text-center text-md-left">
+      <li><a href="#"><i class="fas fa-phone"></i><span>9999-9999</span></a></li>
 
-      <!-- Grid row -->
-      <div class="row">
+      <li><a href="#"><i class="fas fa-envelope"></i><span>support@econocity.com</span></a></li>
+    </ul>
+  </div>
 
-        <!-- Grid column -->
-        <div class="col-md-6 mt-md-0 mt-3">
+  <div class="container">
+    <ul class="icones">
+      <li><a href="#"><i class="fab fa-facebook"></i></a><span></span></li>
+      <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+      <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+    </ul>
+  </div>
 
-          <!-- Content -->
-          <h5 class="text-uppercase font-weight-bold">Footer text 1</h5>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita sapiente sint, nulla, nihil repudiandae commodi voluptatibus corrupti animi sequi aliquid magnam debitis, maxime quam recusandae harum esse fugiat. Itaque, culpa?</p>
-
-        </div>
-        <!-- Grid column -->
-
-        <hr class="clearfix w-100 d-md-none pb-3">
-
-        <!-- Grid column -->
-        <div class="col-md-6 mb-md-0 mb-3">
-
-          <!-- Content -->
-          <h5 class="text-uppercase font-weight-bold">Footer text 2</h5>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio deserunt fuga perferendis modi earum commodi aperiam temporibus quod nulla nesciunt aliquid debitis ullam omnis quos ipsam, aspernatur id excepturi hic.</p>
-
-        </div>
-        <!-- Grid column -->
-
-      </div>
-      <!-- Grid row -->
-
-    </div>
-    <!-- Footer Text -->
-
-    <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">© 2018 Copyright:
-      <a href="https://mdbootstrap.com/bootstrap-tutorial/"> MDBootstrap.com</a>
-    </div>
-    <!-- Copyright -->
-
-  </footer>
-  <!-- Footer -->
+</footer>

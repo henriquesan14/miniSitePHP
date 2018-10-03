@@ -2,7 +2,6 @@
 <link rel="stylesheet"  href="estilos/style.css">
 
 <?php
-include_once("topo.php");
 include_once("menu.php");
 
 if(empty($_SERVER["QUERY_STRING"])){
