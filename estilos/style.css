@@ -46,29 +46,28 @@ nav ul li a:hover{
 	transition: 0.7s;
 }
 
-main{
+main.principal{
 	display: flex;
-
 }
 
-main section#esquerda{
+main.principal section#esquerda{
 	width: 60%;
 	margin-top:20px;
 } 
 
-main section#esquerda h1{
+main.principal section#esquerda h1{
 	text-align: center;
 	font-size: 35px;
 }
 
 
-main section#esquerda p{
+main.principal section#esquerda p{
 	text-align: center;
 	width: 90%;
 	font-size: 15px;
 }
 
-main section#esquerda button{
+main.principal section#esquerda button{
 	border-radius: 10px;
 	border:2px solid #ff7101;
 	background-color: #fff;
@@ -80,12 +79,12 @@ main section#esquerda button{
 	margin: 0 0px 0 60px;
 }
 
-main section#esquerda button:hover{
+main.principal section#esquerda button:hover{
 	color:#fff;
 	background-color:#ff7101; 
 }
 
-main section#esquerda button i{
+main.principal section#esquerda button i{
 	 margin-right: 8px;
 	 font-size: 20px;
 }

@@ -1,0 +1,50 @@
+form fieldset{
+	display: flex;
+	border:3px solid #ff7101;
+	flex-direction: column;
+	padding: 40px;
+	margin-top: 10px;
+}
+
+form fieldset legend{
+	font-size: 30px;
+	
+}
+
+form fieldset input{
+	width: 400px;
+	height: 40px;
+	margin-top: 20px;
+	border-radius: 5px;
+	border:2px solid black;
+	font-size: 15px;
+}
+
+form fieldset input:focus{
+	border-color:#ff7101;
+}
+
+form fieldset input[type="submit"]{
+	width: 100px;
+	cursor: pointer;
+	border:2px solid #ff7101;
+	background-color: #fff;
+	color: #ff7101;
+	font-weight: bold;
+}
+
+form fieldset input[type="submit"]:hover{
+	background-color: #ff7101;
+	color:#fff;
+}
+
+form fieldset textarea{
+	width: 400px;
+	height: 70px;
+	margin-top:20px;
+	border:2px solid black;
+	font-size: 15px;
+}
+form fieldset textarea:focus{
+	border-color:#ff7101;
+}

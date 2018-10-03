@@ -1,21 +1,41 @@
-<div class="container">
-	<h1 style="text-align:center;">CLIENTES</h1>
-	<table class="table">
-		<thead>
-			<tr>
-				<th scope="row">Nome</th>
-				<th scope="row">Fone</th>
-				<th scope="row">Email</th>
-			</tr>
+<link rel="stylesheet" type="text/css" href="estilos/clientes.css">
 
-		</thead>
-		<tbody>
-			<tr>
-		      <th scope="row">José</th>
-		      <td>9999-9999</td>
-		      <td>jose@unipe.com</td>
-    		</tr>
-		</tbody>
+<main class="list container">
+	<h1>CLIENTES</h1>
+	<table>
+		<tr>
+			<th>Nome</th>
+			<th>Email</th>
+			<th>Telefone</th>
+		</tr>
+		<tr>
+			<td>Henrique</td>
+			<td>henrique@unipe.com</td>
+			<td>9999-9999</td>
+			<td><a href="#"><i class="fas fa-pencil-alt"></i></a></td>
+			<td><a href="#"><i class="fas fa-trash-alt"></i></a></td>
+		</tr>
+		<tr>
+			<td>Henrique</td>
+			<td>henrique@unipe.com</td>
+			<td>9999-9999</td>
+			<td><a href="#"><i class="fas fa-pencil-alt"></i></a></td>
+			<td><a href="#"><i class="fas fa-trash-alt"></i></a></td>
+		</tr>
+		<tr>
+			<td>Henrique</td>
+			<td>henrique@unipe.com</td>
+			<td>9999-9999</td>
+			<td><a href="#"><i class="fas fa-pencil-alt"></i></a></td>
+			<td><a href="#"><i class="fas fa-trash-alt"></i></a></td>
+		</tr>
+		<tr>
+			<td>Henrique</td>
+			<td>henrique@unipe.com</td>
+			<td>9999-9999</td>
+			<td><a href="#"><i class="fas fa-pencil-alt"></i></a></td>
+			<td><a href="#"><i class="fas fa-trash-alt"></i></a></td>
+		</tr>
 	</table>
-</div>
+</main>
 

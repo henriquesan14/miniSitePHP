@@ -1,6 +1,6 @@
 <header>
   <nav>
-    <a href="?pg=principal">Site</a>
+    <a href="?pg=principal">Econocity</a>
     <ul>
       
       <li>

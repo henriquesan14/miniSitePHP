@@ -1,0 +1,30 @@
+main.list h1{
+	text-align: center;
+}
+
+
+
+main.list table{
+	border-radius: 10px;
+	margin: 0 auto;
+	border: 1px solid #000;
+	padding: 10px;
+	width: 800px;
+}
+
+main.list table tr th{
+	font-size: 20px;
+}
+
+main.list td{
+	text-align: center;
+	padding: 20px;
+}
+
+main.list td a i{
+	color: #ff7101;
+}
+
+main.list td a i:hover{
+	color: #000;
+}
